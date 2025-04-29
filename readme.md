@@ -52,9 +52,12 @@ If you use this work or code, please cite our paper:
 ## 📬 Contact
 
 For questions or collaboration, please contact:  
-**Yibin Jiang**  
-Email: [yibin_jiang@outlook.com](mailto:yibin_jiang@outlook.com)  
-Department of Chemistry and Chemical Engineering, Wang Group, Xiamen University
+**Yibin Jiang**: Email: [yibin_jiang@outlook.com](mailto:yibin_jiang@outlook.com) 
+**Cheng Wang**: Email: [wangchengxmu@xmu.edu.cn](mailto:wangchengxmu@xmu.edu.cn) 
+
+Department of Chemistry and Chemical Engineering, 
+Wang Group, 
+Xiamen University
 
 ## License 
 
