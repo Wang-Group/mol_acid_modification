@@ -1,0 +1,11 @@
+Acid,Experiment,Acid conc (mM),FA conc (mM),acid/SBU,FA/SBU
+BA,acidic,180.0,45.0,2.66,0.74
+BA,acidic,135.0,90.0,2.42,1.06
+BA,acidic,112.5,112.5,2.16,1.16
+BA,acidic,90.0,135.0,2.02,1.36
+BA,acidic,45.0,180.0,1.42,1.94
+BA,basic,180.0,45.0,2.7,0.88
+BA,basic,135.0,90.0,2.46,1.22
+BA,basic,112.5,112.5,2.34,1.42
+BA,basic,90.0,135.0,2.06,1.64
+BA,basic,45.0,180.0,1.44,2.38
